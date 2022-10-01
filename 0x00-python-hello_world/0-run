@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+PYFILE=$(
+    print(Hello world)
+)
